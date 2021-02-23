@@ -18,5 +18,3 @@ number_to_guess = rand(1..100)
   end
 
 end
-
-# print "#{number_to_guess}\n"
